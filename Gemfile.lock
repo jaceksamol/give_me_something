@@ -160,7 +160,7 @@ GEM
       pry
     quiet_assets (1.0.3)
       railties (>= 3.1, < 5.0)
-    rack (1.5.2)
+    rack (1.5.5)
     rack-test (0.6.2)
       rack (>= 1.0)
     rails (4.1.7)
@@ -233,7 +233,6 @@ GEM
       rubyzip (~> 1.0)
       websocket (~> 1.0)
     sendgrid (1.2.0)
-      json
       json
     sexp_processor (4.4.4)
     shortener (0.3.1)
